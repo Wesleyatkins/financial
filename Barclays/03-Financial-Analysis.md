@@ -6,7 +6,7 @@
 
 ## Executive Financial Summary
 
-Barclays delivered robust financial performance in H1 2025, with [profit before tax rising 23% to £5.2 billion](https://www.cnbc.com/2025/07/29/barclays-q2-earnings-2025.html) and [Return on Tangible Equity (RoTE) reaching 13.2%](https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/H12025Results/H125-Results-Presentation.pdf). The bank's diversified business model and strong trading performance drove [14% year-on-year income growth to £14.9 billion](https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/H12025Results/H125-Results-Presentation.pdf) in the first half, positioning it well to achieve its 2026 strategic targets.
+Barclays delivered robust financial performance in H1 2025, with [profit before tax rising 23% to £5.2 billion](https://www.reuters.com/business/finance/barclays-profit-rises-23-trump-tariff-turmoil-lifts-trading-2025-07-29/) and [Return on Tangible Equity (RoTE) reaching 12.3% in Q2 2025](https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/H12025Results/H125-Results-Presentation.pdf). The bank's diversified business model and strong trading performance drove [12% year-on-year income growth to £14.9 billion](https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/H12025Results/H125-Results-Presentation.pdf) in the first half, positioning it well to achieve its 2026 strategic targets.
 
 ---
 
@@ -16,7 +16,7 @@ Barclays delivered robust financial performance in H1 2025, with [profit before 
 
 #### Total Income Trajectory
 - **H1 2025**: [£14.9 billion, up 12% year-on-year](https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/H12025Results/H125-Barclays-At-A-Glance.pdf)
-- **Q2 2025**: [£7.2 billion, up 14% year-on-year](https://www.cnbc.com/2025/07/29/barclays-q2-earnings-2025.html)
+- **Q2 2025**: [£7.2 billion](https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/H12025Results/H125-Results-Presentation.pdf)
 - **FY 2024**: [£26.8 billion](https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/H12025Results/H125-Barclays-At-A-Glance.pdf)
 - **Historical Growth**: Revenue increased from £21.9 billion in 2021 to £26.8 billion in 2024
 
@@ -193,7 +193,7 @@ Barclays delivered robust financial performance in H1 2025, with [profit before 
 
 ## Conclusion
 
-Barclays' financial performance in H1 2025 demonstrates the strength of its diversified business model and effective execution of its strategic transformation. With RoTE of 13.2%, a strong CET1 ratio of 14%, and improving cost efficiency, the bank is well-positioned to achieve its 2026 targets. The combination of robust capital generation, disciplined risk management, and enhanced shareholder returns provides a solid foundation for sustainable value creation.
+Barclays' financial performance in H1 2025 demonstrates the strength of its diversified business model and effective execution of its strategic transformation. With H1 2025 RoTE of 13.2% (Q2 at 12.3%), a strong CET1 ratio of 14%, and improving cost efficiency, the bank is well-positioned to achieve its 2026 targets. The combination of robust capital generation, disciplined risk management, and enhanced shareholder returns provides a solid foundation for sustainable value creation.
 
 ---
 

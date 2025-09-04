@@ -13,7 +13,7 @@
 
 ## Executive Investment Summary
 
-Barclays presents a compelling investment opportunity driven by multiple catalysts: a favorable UK interest rate environment, successful strategic transformation under CEO Venkatakrishnan, and significant capital return commitments. Trading at just 0.64x book value versus peers at 0.8-1.0x, the bank offers attractive valuation upside while delivering [14% revenue growth and 28% profit growth in Q2 2025](https://www.ainvest.com/news/barclays-q2-2025-earnings-beat-strategic-reforms-blueprint-long-term-creation-2507/). The investment case centers on three scenarios with carefully calibrated probabilities reflecting both opportunities and risks.
+Barclays presents a compelling investment opportunity driven by multiple catalysts: a favorable UK interest rate environment, successful strategic transformation under CEO Venkatakrishnan, and significant capital return commitments. Trading at just 0.64x book value versus peers at 0.8-1.0x, the bank offers attractive valuation upside while delivering [12% revenue growth in H1 2025 and 23% profit growth](https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/H12025Results/H125-Results-Presentation.pdf). The investment case centers on three scenarios with carefully calibrated probabilities reflecting both opportunities and risks.
 
 ---
 
