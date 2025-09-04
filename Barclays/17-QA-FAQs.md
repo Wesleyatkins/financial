@@ -21,11 +21,11 @@
 
 ### Q: What is your price target and recommendation?
 
-**A:** **12-month price target: 420 GBP (14% upside)**
-- Current price: 367.30 GBP
+**A:** **12-month price target: 420 GBp (14% upside)**
+- Current price: 367.30 GBp
 - Rating: BUY
 - Risk/Reward: 2.3:1 favorable
-- Probability-weighted target: 413 GBP
+- Probability-weighted target: 413 GBp
 
 ---
 
@@ -203,9 +203,9 @@
 ### Q: What are the key technical levels?
 
 **A:** 
-- **Support**: 350 GBP (50-day MA), 320 GBP (200-day MA)
-- **Resistance**: 380 GBP (52-week high), 400 GBP (psychological)
-- **Current**: 367.30 GBP
+- **Support**: 350 GBp (50-day MA), 320 GBp (200-day MA)
+- **Resistance**: 380 GBp (52-week high), 400 GBp (psychological)
+- **Current**: 367.30 GBp
 - **Momentum**: RSI 68 (approaching overbought)
 
 ### Q: Why does Barclays trade at such a discount?
@@ -292,7 +292,7 @@
 
 | Metric | Current | Target | Timeline |
 |--------|---------|--------|----------|
-| Share Price | 367.30 GBP | 420 GBP | 12 months |
+| Share Price | 367.30 GBp | 420 GBp | 12 months |
 | RoTE | 12.3% | >12% | 2026 |
 | Cost/Income | 59% | <58% | 2026 |
 | CET1 Ratio | 14.0% | >13.5% | Ongoing |
@@ -315,7 +315,7 @@
 
 ## CONCLUSION
 
-Barclays represents a complex but potentially rewarding investment opportunity at current levels. The combination of transformation momentum (12.3% RoTE achieved), significant undervaluation (0.52x book), and substantial capital returns (£10bn committed) creates an asymmetric risk/reward profile. While legitimate concerns exist around UK recession risk, regulatory overhang, and digital disruption, the 25% margin of safety and multiple paths to value realization support a BUY rating with 420 GBP price target. Success requires patience and tolerance for volatility, but the risk/reward favors accumulation for investors with 12-24 month horizons.
+Barclays represents a complex but potentially rewarding investment opportunity at current levels. The combination of transformation momentum (12.3% RoTE achieved), significant undervaluation (0.52x book), and substantial capital returns (£10bn committed) creates an asymmetric risk/reward profile. While legitimate concerns exist around UK recession risk, regulatory overhang, and digital disruption, the 25% margin of safety and multiple paths to value realization support a BUY rating with 420 GBp price target. Success requires patience and tolerance for volatility, but the risk/reward favors accumulation for investors with 12-24 month horizons.
 
 ---
 

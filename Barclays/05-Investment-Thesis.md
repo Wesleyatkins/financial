@@ -5,7 +5,7 @@
 ---
 
 ## Investment Recommendation: BUY
-**Price Target: £420 (14% upside from current £367)**
+**Price Target: 420 GBp (14% upside from current 367 GBp)**
 **Risk-Adjusted Rating: Moderate Buy**
 **Time Horizon: 12-18 months**
 
@@ -18,7 +18,7 @@ Barclays presents a compelling investment opportunity driven by multiple catalys
 ---
 
 ## 🐂 BULL CASE (30% Probability)
-**Target Price: £480 | 31% Upside**
+**Target Price: 480 GBp | 31% Upside**
 
 ### Macro Tailwinds
 The UK interest rate environment remains highly favorable for banks. While the [Bank of England has begun cutting rates from their peak, with base rate at 4% as of August 2025](https://www.bankofengland.co.uk/explainers/current-interest-rate), the gradual pace of reductions sustains healthy net interest margins. [Goldman Sachs Research projects the BoE terminal rate at 3%](https://www.goldmansachs.com/insights/articles/bank-of-england-could-cut-rates-more-than-expected), providing a supportive backdrop for sustained profitability through 2026.
@@ -51,7 +51,7 @@ The bank's robust capital position (14% CET1 ratio) supports aggressive sharehol
 ---
 
 ## 📊 BASE CASE (45% Probability) 
-**Target Price: £420 | 14% Upside**
+**Target Price: 420 GBp | 14% Upside**
 
 ### Steady Progress Scenario
 Our base case assumes Barclays achieves its stated targets while navigating a moderating economic environment. The bank delivers RoTE of 12.3% in Q2 2025, on track for the >12% 2026 target, while maintaining disciplined risk management.
@@ -89,7 +89,7 @@ Management executes measured capital deployment:
 ---
 
 ## 🐻 BEAR CASE (25% Probability)
-**Target Price: £300 | -18% Downside**
+**Target Price: 300 GBp | -18% Downside**
 
 ### Economic Recession Risk
 [Global growth slowing to 2.9% in 2025 from 3.3% in 2024](https://www.ib.barclays/research/global-outlook/q2-2025-at-a-crossroads.html) raises recession probability. Barclays Research warns that ["if policy uncertainty continues and trade wars worsen, a sharp slowdown may become realistic"](https://www.ib.barclays/research/global-outlook/q2-2025-at-a-crossroads.html).
@@ -213,7 +213,7 @@ Market share erosion from multiple vectors:
 
 ## Investment Conclusion
 
-Barclays offers a compelling risk-reward profile with 45% probability of achieving our £420 base case target, representing 14% upside. The combination of valuation discount, strategic momentum, and capital return commitment creates multiple paths to value creation. While macro risks warrant position sizing discipline, the 30% bull case probability with 31% upside potential versus 25% bear case probability with 18% downside offers attractive asymmetry.
+Barclays offers a compelling risk-reward profile with 45% probability of achieving our 420 GBp base case target, representing 14% upside. The combination of valuation discount, strategic momentum, and capital return commitment creates multiple paths to value creation. While macro risks warrant position sizing discipline, the 30% bull case probability with 31% upside potential versus 25% bear case probability with 18% downside offers attractive asymmetry.
 
 **Key Conviction Points:**
 1. **Valuation gap** to peers provides margin of safety
@@ -223,7 +223,7 @@ Barclays offers a compelling risk-reward profile with 45% probability of achievi
 5. **Investment banking optionality** in market recovery
 
 **Investment Action:** 
-Initiate BUY rating with £420 target price. Suitable for diversified portfolios with moderate risk tolerance and 12-18 month investment horizon.
+Initiate BUY rating with 420 GBp target price. Suitable for diversified portfolios with moderate risk tolerance and 12-18 month investment horizon.
 
 ---
 

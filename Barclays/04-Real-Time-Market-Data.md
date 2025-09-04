@@ -9,7 +9,7 @@
 ### Stock Price & Trading Activity
 As of September 4, 2025, Barclays PLC (BARC.L) demonstrates strong momentum in the equity markets:
 
-- **Current Price**: [367.30 GBP as of September 1, 2025](https://finance.yahoo.com/quote/BARC.L/history/)
+- **Current Price**: [367.30 GBp as of September 1, 2025](https://finance.yahoo.com/quote/BARC.L/history/)
 - **Trading Volume**: [80.57 million shares daily average](https://finance.yahoo.com/quote/BARC.L/)
 - **Average Volume**: [42.24 million shares (3-month average)](https://finance.yahoo.com/quote/BARC.L/)
 
@@ -31,13 +31,13 @@ As of September 4, 2025, Barclays PLC (BARC.L) demonstrates strong momentum in t
 
 ### Historical Performance
 - **5-Year Return**: [+67.46% total return](https://finance.yahoo.com/quote/BARC.L/)
-- **5-Year Growth**: [+248.71% from £105.56 to current levels](https://www.marketbeat.com/stocks/LON/BARC/chart/)
+- **5-Year Growth**: [+248.71% from 105.56 GBp to current levels](https://www.marketbeat.com/stocks/LON/BARC/chart/)
 - **All-Time Performance**: [+339.89% since inception](https://finance.yahoo.com/quote/BARC.L/)
 
 ### Recent Trading Patterns
 - **1-Month Performance**: [+1.56% over past month](https://www.marketbeat.com/stocks/LON/BARC/chart/)
 - **6-Month Performance**: [+32.94% over six months](https://finance.yahoo.com/quote/BARC.L/)
-- **Daily Movement**: [+7.15 GBP or +1.97% on September 4, 2025](https://markets.ft.com/data/equities/tearsheet/charts?s=BARC:LSE)
+- **Daily Movement**: [+7.15 GBp or +1.97% on September 4, 2025](https://markets.ft.com/data/equities/tearsheet/charts?s=BARC:LSE)
 
 ---
 
@@ -47,16 +47,16 @@ As of September 4, 2025, Barclays PLC (BARC.L) demonstrates strong momentum in t
 - **P/E Trailing (TTM)**: 8.42 (based on last 12 months earnings)
 - **P/E Forward (2025E)**: 7.8x (based on consensus 2025 estimates)
 - **P/E Forward (2026E)**: 6.8x (based on consensus 2026 estimates)
-- **EPS (TTM)**: [£0.35](https://finance.yahoo.com/quote/BARC.L/)
+- **EPS (TTM)**: [35p](https://finance.yahoo.com/quote/BARC.L/)
 
 ### Price-to-Book Ratio
 - **Current P/B**: [0.64 (quarterly)](https://www.reuters.com/markets/companies/BARC.L/)
 - **Alternative P/B**: [0.6863 as of July 10, 2025](https://ycharts.com/companies/BCS/price_to_book_value)
-- **Book Value per Share**: Implied at approximately £5.70
+- **Book Value per Share**: Implied at approximately 570 GBp
 - **Discount to Book**: Trading at 36% discount to book value
 
 ### Dividend Metrics
-- **Forward Dividend**: [£0.08 per share](https://finance.yahoo.com/quote/BARC.L/)
+- **Forward Dividend**: [8p per share](https://finance.yahoo.com/quote/BARC.L/)
 - **Dividend Yield**: [2.85% forward yield](https://finance.yahoo.com/quote/BARC.L/)
 - **Alternative Yield**: [2.52% per Reuters](https://www.reuters.com/markets/companies/BARC.L/)
 - **Ex-Dividend Date**: [February 27, 2025](https://finance.yahoo.com/quote/BARC.L/)
@@ -84,8 +84,8 @@ According to [recent sector analysis](https://www.ig.com/en/news-and-trade-ideas
 ## Technical Indicators
 
 ### Moving Averages
-- **50-Day MA**: Approximately 350 GBP (price above)
-- **200-Day MA**: Approximately 310 GBP (price well above)
+- **50-Day MA**: Approximately 350 GBp (price above)
+- **200-Day MA**: Approximately 310 GBp (price well above)
 - **Trend**: Strong uptrend with price above all major averages
 
 ### Volatility Metrics
@@ -97,15 +97,15 @@ According to [recent sector analysis](https://www.ig.com/en/news-and-trade-ideas
 ### Trading Momentum
 - **Volume Trend**: Recent volumes exceeding 3-month average
 - **Price Action**: Trading near 52-week highs
-- **Support Level**: Strong support around 350 GBP
-- **Resistance Level**: Testing resistance at 370-375 GBP range
+- **Support Level**: Strong support around 350 GBp
+- **Resistance Level**: Testing resistance at 370-375 GBp range
 
 ---
 
 ## Analyst Consensus
 
 ### Price Targets
-- **Mean Target**: [324.35 GBP (1-year target)](https://finance.yahoo.com/quote/BARC.L/)
+- **Mean Target**: [324.35 GBp (1-year target)](https://finance.yahoo.com/quote/BARC.L/)
 - **Implied Downside**: -11.7% from current levels
 - **Rating**: [2.00 mean rating from 17 analysts](https://www.reuters.com/markets/companies/BARC.L/)
 - **Consensus**: Hold/Neutral with selective optimism
@@ -122,7 +122,7 @@ According to [recent sector analysis](https://www.ig.com/en/news-and-trade-ideas
 
 ### Multi-Exchange Trading
 Barclays maintains listings across multiple exchanges:
-- **Primary**: London Stock Exchange (BARC.L) - GBP
+- **Primary**: London Stock Exchange (BARC.L) - GBp
 - **NYSE ADR**: BCS - [$19.68 as of September 3, 2025](https://www.morningstar.com.au/investments/security/NYSE/BCS)
 - **Frankfurt**: BCY - EUR denominated
 - **Mexico**: BCSN - MXN denominated
@@ -159,7 +159,7 @@ Barclays maintains listings across multiple exchanges:
 
 ## Conclusion
 
-Barclays trades at 367.30 GBP with a market capitalisation of £53.3 billion, demonstrating exceptional performance with a 107% one-year return significantly outpacing the FTSE 100's 15% gain. The stock trades at attractive valuations with a forward P/E of 7.8x and P/B of 0.64x, offering a 2.85% dividend yield. While technical indicators show strong momentum and the bank benefits from higher interest rates and investment banking strength, the high beta of 1.29-1.90 signals elevated volatility risk. Current trading near 52-week highs with analyst price targets suggesting potential near-term consolidation warrants careful position sizing despite the compelling fundamental story.
+Barclays trades at 367.30 GBp with a market capitalisation of £53.3 billion, demonstrating exceptional performance with a 107% one-year return significantly outpacing the FTSE 100's 15% gain. The stock trades at attractive valuations with a forward P/E of 7.8x and P/B of 0.64x, offering a 2.85% dividend yield. While technical indicators show strong momentum and the bank benefits from higher interest rates and investment banking strength, the high beta of 1.29-1.90 signals elevated volatility risk. Current trading near 52-week highs with analyst price targets suggesting potential near-term consolidation warrants careful position sizing despite the compelling fundamental story.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## 📊 Comprehensive Investment Analysis | September 2025
 
-### Investment Rating: **BUY** | Price Target: **420 GBP** | Current: **367.30 GBP** | Upside: **+14.4%**
+### Investment Rating: **BUY** | Price Target: **420 GBp** | Current: **367.30 GBp** | Upside: **+14.4%**
 
 ---
 
@@ -25,7 +25,7 @@ This repository contains a comprehensive institutional-grade equity research rep
 
 | File                                                       | Description                                   | Key Insights                      |
 | ---------------------------------------------------------- | --------------------------------------------- | --------------------------------- |
-| [01-Executive-Summary.md](01-Executive-Summary.md)         | Complete investment thesis and recommendation | BUY rating with 420 GBP target    |
+| [01-Executive-Summary.md](01-Executive-Summary.md)         | Complete investment thesis and recommendation | BUY rating with 420 GBp target    |
 | [02-Company-Overview.md](02-Company-Overview.md)           | Business model and operational structure      | Universal bank with £1.7tn assets |
 | [03-Financial-Analysis.md](03-Financial-Analysis.md)       | Detailed financial performance metrics        | 12.3% RoTE achieved Q2 2025       |
 | [04-Real-Time-Market-Data.md](04-Real-Time-Market-Data.md) | Current market positioning and trading data   | Trading at 0.52x book value       |
@@ -45,7 +45,7 @@ This repository contains a comprehensive institutional-grade equity research rep
 
 | File | Description | Key Insights |
 |------|-------------|-------------|
-| [11-Technical-Analysis.md](11-Technical-Analysis.md) | Chart patterns and momentum indicators | RSI 68, support at 350 GBP |
+| [11-Technical-Analysis.md](11-Technical-Analysis.md) | Chart patterns and momentum indicators | RSI 68, support at 350 GBp |
 | [12-ESG-Sustainability.md](12-ESG-Sustainability.md) | Environmental, social, governance assessment | MSCI AA rating, NZBA exit concern |
 | [13-Catalyst-Timeline.md](13-Catalyst-Timeline.md) | Key dates and market-moving events | Q3 earnings October 22, 2025 |
 | [14-Valuation-Models.md](14-Valuation-Models.md) | DCF, SOTP, and relative valuation | 50% DCF discount to fair value |
@@ -80,10 +80,10 @@ Barclays presents a compelling value opportunity as a transforming universal ban
 
 | Methodology | Fair Value | Implied Upside |
 |-------------|------------|----------------|
-| DCF Analysis | 523 GBP | +42% |
-| Sum-of-Parts | 418 GBP | +14% |
-| Peer Multiple | 392 GBP | +7% |
-| **Blended Target** | **420 GBP** | **+14.4%** |
+| DCF Analysis | 523 GBp | +42% |
+| Sum-of-Parts | 418 GBp | +14% |
+| Peer Multiple | 392 GBp | +7% |
+| **Blended Target** | **420 GBp** | **+14.4%** |
 
 ---
 
@@ -107,7 +107,7 @@ Barclays presents a compelling value opportunity as a transforming universal ban
 
 | Metric | Current | 2026 Target |
 |--------|---------|-------------|
-| Share Price | 367.30 GBP | 420 GBP |
+| Share Price | 367.30 GBp | 420 GBp |
 | Market Cap | £53.3bn | - |
 | RoTE | 12.3% | >12% |
 | Cost/Income | 59% | <58% |

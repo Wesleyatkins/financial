@@ -622,7 +622,7 @@
 130. MarketBeat - Analyst Price Targets
     - URL: https://www.marketbeat.com/stocks/LON/BARC/price-target/
     - Accessed: September 4, 2025
-    - Content: Consensus target 406-409 GBP, 18 analyst coverage
+    - Content: Consensus target 406-409 GBp, 18 analyst coverage
 
 131. Financial Times - Barclays Forecasts
     - URL: https://markets.ft.com/data/equities/tearsheet/forecasts?s=BARC:LSE

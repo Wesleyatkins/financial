@@ -6,7 +6,7 @@
 
 ## Overview
 
-The investment case for Barclays centers on a fundamental debate between transformation believers and structural skeptics. Bulls point to 12.3% Q2 2025 RoTE achievement, £10bn capital return commitment, and 50% valuation discount as compelling entry opportunities. Bears counter with UK recession risks (40-60% probability), regulatory overhang from past scandals, and digital disruption threats. At 367.30 GBP, the risk/reward skews positive with 14% upside to 420 GBP base case versus 21% downside to 290 GBP bear case, suggesting value for risk-tolerant investors with 12-24 month horizons.
+The investment case for Barclays centers on a fundamental debate between transformation believers and structural skeptics. Bulls point to 12.3% Q2 2025 RoTE achievement, £10bn capital return commitment, and 50% valuation discount as compelling entry opportunities. Bears counter with UK recession risks (40-60% probability), regulatory overhang from past scandals, and digital disruption threats. At 367.30 GBp, the risk/reward skews positive with 14% upside to 420 GBp base case versus 21% downside to 290 GBp bear case, suggesting value for risk-tolerant investors with 12-24 month horizons.
 
 ---
 
@@ -32,10 +32,10 @@ While bears cite one-off gains, the underlying operational improvements are stru
 Trading at 0.52x book value and 7.8x forward P/E versus peer average of 10.4x creates asymmetric upside. DCF analysis suggests 50% undervaluation at current levels.
 
 **Mathematical Support:**
-- Current price: 367.30 GBP
-- DCF fair value: 523 GBP (42% upside)
-- Sum-of-parts: 418 GBP (14% upside)
-- Analyst consensus: 409 GBP (11% upside)
+- Current price: 367.30 GBp
+- DCF fair value: 523 GBp (42% upside)
+- Sum-of-parts: 418 GBp (14% upside)
+- Analyst consensus: 409 GBp (11% upside)
 
 **Why Discount Should Close:**
 - Governance issues resolved with Staley departure
@@ -225,16 +225,16 @@ Ambitious >12% RoTE target by 2026 requires perfect execution in deteriorating e
 
 | Scenario | Probability | Price Target | Return |
 |----------|------------|--------------|--------|
-| Bull Case | 25% | 520 GBP | +42% |
-| Base Case | 50% | 420 GBP | +14% |
-| Bear Case | 25% | 290 GBP | -21% |
-| **Expected Value** | **100%** | **413 GBP** | **+12.5%** |
+| Bull Case | 25% | 520 GBp | +42% |
+| Base Case | 50% | 420 GBp | +14% |
+| Bear Case | 25% | 290 GBp | -21% |
+| **Expected Value** | **100%** | **413 GBp** | **+12.5%** |
 
 ### Risk/Reward Analysis
 
 **Upside/Downside Ratio: 2.0x**
-- Maximum upside: 42% (520 GBP)
-- Maximum downside: -21% (290 GBP)
+- Maximum upside: 42% (520 GBp)
+- Maximum downside: -21% (290 GBp)
 - Risk-adjusted return: Favorable
 
 ### Critical Success Factors
@@ -321,7 +321,7 @@ Ambitious >12% RoTE target by 2026 requires perfect execution in deteriorating e
 
 The bull-bear debate for Barclays ultimately hinges on execution credibility versus structural headwinds. Bulls present compelling arguments around valuation (0.52x book), transformation momentum (12.3% RoTE achieved), and capital returns (£10bn commitment). Bears counter with legitimate concerns about UK recession risk (40-60% probability), regulatory overhang (£42.4M recent fines), and digital disruption (Revolut 45M users).
 
-The narrow scorecard victory for bulls (28 vs 27) reflects a balanced but slightly positive risk/reward at current levels. The 12.5% expected return based on probability-weighted scenarios suggests modest upside with manageable downside risk. For investors with 12-24 month horizons and tolerance for UK macro exposure, Barclays offers value entry at 367.30 GBP with clear catalysts for re-rating.
+The narrow scorecard victory for bulls (28 vs 27) reflects a balanced but slightly positive risk/reward at current levels. The 12.5% expected return based on probability-weighted scenarios suggests modest upside with manageable downside risk. For investors with 12-24 month horizons and tolerance for UK macro exposure, Barclays offers value entry at 367.30 GBp with clear catalysts for re-rating.
 
 The investment decision ultimately depends on one's view of UK economic resilience and management's ability to execute the strategic transformation. Current valuation provides margin of safety, but patience is required for thesis validation.
 

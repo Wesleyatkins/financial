@@ -6,21 +6,21 @@
 
 ## Overview
 
-Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367.30 GBP, near its 52-week high of 378.30 GBP and significantly above all major moving averages. [Technical indicators show bullish trend confirmation across short and medium timeframes](https://www.tradingview.com/symbols/LSE-BARC/technicals/), though approaching overbought conditions with RSI nearing 70. The stock has delivered exceptional performance with a [107% one-year return](https://finance.yahoo.com/quote/BARC.L/), substantially outperforming the FTSE 100's 15% gain. Key resistance lies at 380 GBP with support at 350 GBP, suggesting a favorable risk-reward for momentum traders while longer-term investors should await pullbacks.
+Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367.30 GBp, near its 52-week high of 378.30 GBp and significantly above all major moving averages. [Technical indicators show bullish trend confirmation across short and medium timeframes](https://www.tradingview.com/symbols/LSE-BARC/technicals/), though approaching overbought conditions with RSI nearing 70. The stock has delivered exceptional performance with a [107% one-year return](https://finance.yahoo.com/quote/BARC.L/), substantially outperforming the FTSE 100's 15% gain. Key resistance lies at 380 GBp with support at 350 GBp, suggesting a favorable risk-reward for momentum traders while longer-term investors should await pullbacks.
 
 ---
 
 ## 📊 PRICE ACTION ANALYSIS
 
 ### Current Trading Levels
-- **Current Price**: 367.30 GBP (September 4, 2025)
-- **Day's Range**: 362.75 - 367.30 GBP
-- **52-Week Range**: 213.95 - 378.30 GBP
+- **Current Price**: 367.30 GBp (September 4, 2025)
+- **Day's Range**: 362.75 - 367.30 GBp
+- **52-Week Range**: 213.95 - 378.30 GBp
 - **Distance from 52-Week High**: -2.9%
 - **Distance from 52-Week Low**: +71.7%
 
 ### Historical Performance
-- **1-Day**: +1.91% (+6.90 GBP)
+- **1-Day**: +1.91% (+6.90 GBp)
 - **1-Week**: +1.56%
 - **1-Month**: +2.5%
 - **3-Month**: +15.2%
@@ -36,23 +36,23 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 ### Simple Moving Averages (SMA)
 | Period | Level | Position | Signal |
 |--------|-------|----------|---------|
-| 20-Day | 358.5 GBP | Above | Bullish |
-| 50-Day | 350.2 GBP | Above | Bullish |
-| 100-Day | 335.8 GBP | Above | Bullish |
-| 200-Day | 310.4 GBP | Above | Bullish |
+| 20-Day | 358.5 GBp | Above | Bullish |
+| 50-Day | 350.2 GBp | Above | Bullish |
+| 100-Day | 335.8 GBp | Above | Bullish |
+| 200-Day | 310.4 GBp | Above | Bullish |
 
 ### Exponential Moving Averages (EMA)
 | Period | Level | Position | Signal |
 |--------|-------|----------|---------|
-| 12-Day | 361.3 GBP | Above | Bullish |
-| 26-Day | 355.7 GBP | Above | Bullish |
-| 50-Day | 348.9 GBP | Above | Bullish |
+| 12-Day | 361.3 GBp | Above | Bullish |
+| 26-Day | 355.7 GBp | Above | Bullish |
+| 50-Day | 348.9 GBp | Above | Bullish |
 
 **Moving Average Analysis:**
 - Stock trading well above all major moving averages
 - Golden cross (50-day above 200-day) intact since March 2024
 - Strong uptrend with consistent higher highs and higher lows
-- 200-day MA providing major long-term support at 310 GBP
+- 200-day MA providing major long-term support at 310 GBp
 
 ---
 
@@ -77,9 +77,9 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 - **Signal**: Potential short-term pullback
 
 ### Bollinger Bands (20,2)
-- **Upper Band**: 375.2 GBP
-- **Middle Band**: 358.5 GBP
-- **Lower Band**: 341.8 GBP
+- **Upper Band**: 375.2 GBp
+- **Middle Band**: 358.5 GBp
+- **Lower Band**: 341.8 GBp
 - **Position**: Near upper band
 - **Width**: Expanding (increased volatility)
 
@@ -88,23 +88,23 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 ## 📍 SUPPORT & RESISTANCE LEVELS
 
 ### Key Resistance Levels
-1. **R1 - 375 GBP**: Psychological level and recent consolidation zone
-2. **R2 - 380 GBP**: 52-week high and major resistance
-3. **R3 - 390 GBP**: [Technical price target per Wallet Investor](https://walletinvestor.com/lse-stock-forecast/barc-stock-prediction)
-4. **R4 - 400 GBP**: Major psychological milestone
+1. **R1 - 375 GBp**: Psychological level and recent consolidation zone
+2. **R2 - 380 GBp**: 52-week high and major resistance
+3. **R3 - 390 GBp**: [Technical price target per Wallet Investor](https://walletinvestor.com/lse-stock-forecast/barc-stock-prediction)
+4. **R4 - 400 GBp**: Major psychological milestone
 
 ### Key Support Levels
-1. **S1 - 350 GBP**: Psychological support and 50-day MA convergence
-2. **S2 - 340 GBP**: Previous resistance turned support
-3. **S3 - 330 GBP**: Strong volume node support
-4. **S4 - 310 GBP**: 200-day MA and major trend support
+1. **S1 - 350 GBp**: Psychological support and 50-day MA convergence
+2. **S2 - 340 GBp**: Previous resistance turned support
+3. **S3 - 330 GBp**: Strong volume node support
+4. **S4 - 310 GBp**: 200-day MA and major trend support
 
 ### Pivot Points (Daily)
-- **Pivot**: 365.0 GBP
-- **R1**: 369.5 GBP
-- **R2**: 374.0 GBP
-- **S1**: 360.5 GBP
-- **S2**: 356.0 GBP
+- **Pivot**: 365.0 GBp
+- **R1**: 369.5 GBp
+- **R2**: 374.0 GBp
+- **S1**: 360.5 GBp
+- **S2**: 356.0 GBp
 
 ---
 
@@ -113,22 +113,22 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 ### Active Patterns
 
 **1. Ascending Channel (March 2024 - Present)**
-- Upper trendline: Currently at 375 GBP
-- Lower trendline: Currently at 345 GBP
+- Upper trendline: Currently at 375 GBp
+- Lower trendline: Currently at 345 GBp
 - Status: Trading in upper half of channel
 - Implication: Continuation pattern, bullish bias
 
 **2. Cup and Handle Formation (2023-2024)**
-- Cup low: 214 GBP (October 2023)
-- Handle consolidation: 280-300 GBP
-- Breakout level: 320 GBP (confirmed)
-- Target: 420 GBP (measured move)
+- Cup low: 214 GBp (October 2023)
+- Handle consolidation: 280-300 GBp
+- Breakout level: 320 GBp (confirmed)
+- Target: 420 GBp (measured move)
 
 **3. Bull Flag (August 2025)**
-- Flagpole: 330-365 GBP move
-- Flag consolidation: 360-365 GBP
-- Breakout: Above 365 GBP
-- Target: 385-390 GBP
+- Flagpole: 330-365 GBp move
+- Flag consolidation: 360-365 GBp
+- Breakout: Above 365 GBp
+- Target: 385-390 GBp
 
 ### Volume Analysis
 - **Average Daily Volume (3-month)**: 42.24 million shares
@@ -146,31 +146,31 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 - **Current Position**: Final thrust of impulse wave
 
 ### Wave Projections
-- Wave 3 target: 385-390 GBP
-- Wave 4 correction: Expected pullback to 340-350 GBP
-- Wave 5 final target: 420-440 GBP
+- Wave 3 target: 385-390 GBp
+- Wave 4 correction: Expected pullback to 340-350 GBp
+- Wave 5 final target: 420-440 GBp
 
 ### Alternative Count
 - Possible completion of Wave 5 near current levels
-- ABC correction could target 320-330 GBP support
+- ABC correction could target 320-330 GBp support
 
 ---
 
 ## 📐 FIBONACCI ANALYSIS
 
-### Retracement Levels (From 214 to 378 GBP move)
-- **0% (Top)**: 378.30 GBP
-- **23.6%**: 339.60 GBP
-- **38.2%**: 315.70 GBP
-- **50%**: 296.15 GBP
-- **61.8%**: 276.60 GBP
-- **100% (Bottom)**: 214.00 GBP
+### Retracement Levels (From 214 to 378 GBp move)
+- **0% (Top)**: 378.30 GBp
+- **23.6%**: 339.60 GBp
+- **38.2%**: 315.70 GBp
+- **50%**: 296.15 GBp
+- **61.8%**: 276.60 GBp
+- **100% (Bottom)**: 214.00 GBp
 
 ### Extension Levels (For upward targets)
-- **127.2%**: 405.80 GBP
-- **138.2%**: 418.40 GBP
-- **150%**: 431.30 GBP
-- **161.8%**: 444.20 GBP
+- **127.2%**: 405.80 GBp
+- **138.2%**: 418.40 GBp
+- **150%**: 431.30 GBp
+- **161.8%**: 444.20 GBp
 
 ---
 
@@ -179,23 +179,23 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 ### Short-Term (1-4 weeks)
 **Outlook**: NEUTRAL TO BULLISH
 - Approaching overbought conditions suggesting consolidation
-- Support at 350-355 GBP should hold
-- Resistance at 375-380 GBP likely to cap gains
-- **Trading Range**: 350-380 GBP
+- Support at 350-355 GBp should hold
+- Resistance at 375-380 GBp likely to cap gains
+- **Trading Range**: 350-380 GBp
 
 ### Medium-Term (1-3 months)
 **Outlook**: BULLISH
 - Uptrend intact with higher highs/lows pattern
-- Target: 390-400 GBP
-- Stop loss: Below 340 GBP
-- **Risk/Reward**: Favorable above 350 GBP
+- Target: 390-400 GBp
+- Stop loss: Below 340 GBp
+- **Risk/Reward**: Favorable above 350 GBp
 
 ### Long-Term (6-12 months)
 **Outlook**: BULLISH
 - Major uptrend from 2023 lows continuing
-- [Target aligned with analyst consensus at 420 GBP](https://www.etoro.com/markets/barc.l)
-- Major support at 310 GBP (200-day MA)
-- **Target**: 420-440 GBP
+- [Target aligned with analyst consensus at 420 GBp](https://www.etoro.com/markets/barc.l)
+- Major support at 310 GBp (200-day MA)
+- **Target**: 420-440 GBp
 
 ---
 
@@ -217,22 +217,22 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 ## 🎰 TRADING STRATEGIES
 
 ### Momentum Trade (Short-term)
-**Entry**: On pullback to 355-360 GBP
-**Target**: 380-385 GBP
-**Stop Loss**: 348 GBP
+**Entry**: On pullback to 355-360 GBp
+**Target**: 380-385 GBp
+**Stop Loss**: 348 GBp
 **Risk/Reward**: 1:2.5
 
 ### Swing Trade (Medium-term)
-**Entry**: Break above 380 GBP with volume
-**Target 1**: 400 GBP
-**Target 2**: 420 GBP
-**Stop Loss**: 365 GBP
+**Entry**: Break above 380 GBp with volume
+**Target 1**: 400 GBp
+**Target 2**: 420 GBp
+**Stop Loss**: 365 GBp
 **Risk/Reward**: 1:3
 
 ### Position Trade (Long-term)
-**Entry**: Accumulate 340-350 GBP zone
-**Target**: 440 GBP (12-month)
-**Stop Loss**: 310 GBP (below 200-day MA)
+**Entry**: Accumulate 340-350 GBp zone
+**Target**: 440 GBp (12-month)
+**Stop Loss**: 310 GBp (below 200-day MA)
 **Risk/Reward**: 1:4
 
 ---
@@ -240,15 +240,15 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 ## ⚠️ TECHNICAL RISKS
 
 ### Bearish Scenarios
-1. **Double Top Formation**: If 378-380 GBP resistance holds
+1. **Double Top Formation**: If 378-380 GBp resistance holds
 2. **RSI Divergence**: Watch for negative divergence on retest of highs
 3. **Volume Decline**: Decreasing volume on rallies would signal weakness
-4. **Support Break**: Below 340 GBP would negate bullish thesis
+4. **Support Break**: Below 340 GBp would negate bullish thesis
 
 ### Key Levels to Watch
-- **Bullish Trigger**: Sustained break above 380 GBP
-- **Bearish Trigger**: Break below 350 GBP support
-- **Trend Reversal**: Break below 310 GBP (200-day MA)
+- **Bullish Trigger**: Sustained break above 380 GBp
+- **Bearish Trigger**: Break below 350 GBp support
+- **Trend Reversal**: Break below 310 GBp (200-day MA)
 
 ---
 
@@ -270,9 +270,9 @@ Barclays (BARC.L) exhibits strong bullish momentum with the stock trading at 367
 
 ## Conclusion
 
-Barclays displays robust technical strength with the stock in a well-established uptrend, trading above all major moving averages and showing strong momentum indicators. The [107% one-year return](https://finance.yahoo.com/quote/BARC.L/) significantly outperforms both the broader market and sector peers. While approaching near-term resistance at 380 GBP and overbought conditions warrant caution for new entries, the medium to long-term technical picture remains decidedly bullish with targets at 400-440 GBP. 
+Barclays displays robust technical strength with the stock in a well-established uptrend, trading above all major moving averages and showing strong momentum indicators. The [107% one-year return](https://finance.yahoo.com/quote/BARC.L/) significantly outperforms both the broader market and sector peers. While approaching near-term resistance at 380 GBp and overbought conditions warrant caution for new entries, the medium to long-term technical picture remains decidedly bullish with targets at 400-440 GBp. 
 
-Traders should watch for pullbacks to the 350-355 GBP support zone for better risk-reward entries, while investors can accumulate on any weakness with stops below the 200-day moving average at 310 GBP. The combination of strong fundamentals (12.3% RoTE) and positive technicals supports a continued bullish bias with appropriate position sizing given the elevated volatility (beta 1.29-1.90).
+Traders should watch for pullbacks to the 350-355 GBp support zone for better risk-reward entries, while investors can accumulate on any weakness with stops below the 200-day moving average at 310 GBp. The combination of strong fundamentals (12.3% RoTE) and positive technicals supports a continued bullish bias with appropriate position sizing given the elevated volatility (beta 1.29-1.90).
 
 ---
 

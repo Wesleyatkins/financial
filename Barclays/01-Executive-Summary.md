@@ -7,8 +7,8 @@
 ## INVESTMENT RECOMMENDATION
 
 **Rating: BUY**  
-**Current Price: 367.30 GBP**  
-**12-Month Target: 420 GBP (+14.4%)**  
+**Current Price: 367.30 GBp**  
+**12-Month Target: 420 GBp (+14.4%)**  
 **Risk/Reward: 2.3:1 Favorable**  
 **Market Cap: £53.3bn**  
 
@@ -51,11 +51,11 @@ Barclays presents a compelling value opportunity as a transforming universal ban
 
 ### Multiple Methodologies Confirm Undervaluation
 
-- **DCF Analysis**: 523 GBP fair value (42% upside)
-- **Sum-of-Parts**: 418 GBP (14% upside)
-- **P/E Reversion**: 392 GBP at UK peer multiples
-- **Analyst Consensus**: 409 GBP mean target
-- **Risk-Adjusted Target**: 413 GBP probability-weighted
+- **DCF Analysis**: 523 GBp fair value (42% upside)
+- **Sum-of-Parts**: 418 GBp (14% upside)
+- **P/E Reversion**: 392 GBp at UK peer multiples
+- **Analyst Consensus**: 409 GBp mean target
+- **Risk-Adjusted Target**: 413 GBp probability-weighted
 
 ### Current Valuation Metrics
 - P/E Forward (2025E): 7.8x vs peers 10.4x
@@ -115,25 +115,25 @@ Barclays presents a compelling value opportunity as a transforming universal ban
 
 ## BULL vs BEAR DEBATE
 
-### Bull Case (25% probability, 520 GBP target)
+### Bull Case (25% probability, 520 GBp target)
 - RoTE reaches 14% sustainably
 - Full £10bn capital returns delivered
 - UK avoids recession
 - Multiple re-rating to peers
 
-### Base Case (50% probability, 420 GBP target)
+### Base Case (50% probability, 420 GBp target)
 - RoTE achieves 12% by 2026
 - £8bn capital returns
 - UK soft landing
 - Gradual multiple expansion
 
-### Bear Case (25% probability, 290 GBP target)
+### Bear Case (25% probability, 290 GBp target)
 - RoTE stalls at 10%
 - UK recession materializes
 - Regulatory penalties
 - Multiple contraction
 
-**Expected Value: 413 GBP (+12.5%)**
+**Expected Value: 413 GBp (+12.5%)**
 
 ---
 
@@ -171,17 +171,17 @@ Barclays presents a compelling value opportunity as a transforming universal ban
 ## TECHNICAL ANALYSIS
 
 ### Price Action
-- **52-Week Range**: 220-380 GBP
-- **Current**: 367.30 GBP (near highs)
-- **Support**: 350 GBP (50-DMA), 320 GBP (200-DMA)
-- **Resistance**: 380 GBP (52-week high), 400 GBP (psychological)
+- **52-Week Range**: 220-380 GBp
+- **Current**: 367.30 GBp (near highs)
+- **Support**: 350 GBp (50-DMA), 320 GBp (200-DMA)
+- **Resistance**: 380 GBp (52-week high), 400 GBp (psychological)
 - **Momentum**: RSI 68 (strong but approaching overbought)
 
 ### Technical Outlook
 - Uptrend intact with higher highs/lows
 - Volume supporting advances
 - Golden cross confirmed
-- Target: 420-440 GBP based on patterns
+- Target: 420-440 GBp based on patterns
 
 ---
 
@@ -204,7 +204,7 @@ Barclays offers a rare combination of transformation momentum, deep value, and s
 
 While UK macro risks and regulatory concerns persist, these are more than reflected in current valuation multiples. The bank's diversified business model, strong capital position, and accelerating transformation create multiple paths to value realization. For investors with 12-24 month horizons and tolerance for volatility, Barclays represents one of the most compelling value opportunities in European banking.
 
-**Reiterate BUY with 420 GBP price target, implying 14.4% upside.**
+**Reiterate BUY with 420 GBp price target, implying 14.4% upside.**
 
 ---
 
